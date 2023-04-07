@@ -4,4 +4,4 @@
 
 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan1!
 ## mysql>create table biodata (nama varchar (15), alamat varchar (15));
-![ing]ss1.PNG
+![gambar1](ss1.PNG)
