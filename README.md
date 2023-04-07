@@ -60,7 +60,7 @@ mysql> alter table data_mahasiswa add unique key (email);
 mysql> desc data_mahasiswa;
 ![gambar1](ss/ss12.PNG)
 
-# C.	Data dan Analisis 
+# 	Data dan Analisis 
 ## 1.	Apa maksud dari Int (11)?
 Maksud dari int (11) adalah nama tipe datanya adalah integer dan memiliki panjang 11 karakter.
 ## 2.	Ketika kita melihat sturktur tabel dengan perintah desc, ada kolom Null yang berisi Yes dan No, apa maksudnya?
