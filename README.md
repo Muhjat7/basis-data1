@@ -3,7 +3,7 @@
  # 1. Buat sebuah database dengan nama latihan2!
 mysql> create database latihan02;
 =======
-# 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan1!
+# 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan2!
 
 mysql>create table biodata (nama varchar (15), alamat varchar (15));
 ![gambar1](ss/ss1.PNG)
