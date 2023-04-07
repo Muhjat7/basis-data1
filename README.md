@@ -1,7 +1,7 @@
 # data mahasiswa
 <<<<<<< HEAD
  # 1. Buat sebuah database dengan nama latihan2!
-mysql> use latihan02;
+mysql> create database latihan02;
 =======
 # 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan1!
 
